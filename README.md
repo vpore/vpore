@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhavi
-- :heart_eyes_cat: I love Web development
+- :heart_eyes_cat: I love Web Development
 - 🌱 I’m currently learning React 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vaibhavi-pore-242042211/)
 
