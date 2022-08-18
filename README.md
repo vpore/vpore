@@ -2,7 +2,7 @@
 - 😻 I love Web Development
 - 🌱 I’m currently learning Node 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vaibhavi-pore-242042211/) or [Drop a Mail](mailto:porevaibhavi5@gmail.com) :)
-- 🐾 View my [Portfolio](https://vpore.github.io/MyPortfolio/) ^^
+- 🐾 View my [Portfolio](https://vpore.github.io/Portfolio/) ^^
 
 <!---
 vpore/vpore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
