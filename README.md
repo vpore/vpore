@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhavi
 - 😻 I love Web Development
-- 🌱 I’m currently learning Node 
+- 🌱 I’m currently learning Data Structures & Algorithms 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vaibhavi-pore-242042211/) or [Drop a Mail](mailto:porevaibhavi5@gmail.com) :)
 - 🐾 View my [Portfolio](https://vpore.github.io/Portfolio/) ^^
 
